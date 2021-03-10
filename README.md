@@ -1,4 +1,11 @@
-# CptS-223-Spring-2021
-## Hello, welcome to repo of Amy Nguyen :D
-## This is repo for CptS 223, Spring 2021
-##### idk whats happening but im trying my best!
+# CPTS-223-Assignments
+
+Build and run
+
+```
+cd MA2
+mkdir build
+cmake -B build -S .
+cmake --build build
+./build/CPTS_223_MA2
+```
